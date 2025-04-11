@@ -26,3 +26,4 @@ A fun tool to visualize whether a Codeforces user might be involved in cheating 
 ```bash
 pip install streamlit requests matplotlib
 streamlit run app.py
+#currently is sleep mode
